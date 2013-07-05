@@ -1,0 +1,4 @@
+app/etc/modules/Schrank_MageAttack.xml                                                app/etc/modules/Schrank_MageAttack.xml
+app/code/community/Schrank/MageAttack/Test/features/demologin_adminhtml.feature       app/code/community/Schrank/MageAttack/Test/features/demologin_adminhtml.feature
+app/code/community/Schrank/MageAttack/Test/features/not_readable_local_xml.feature    app/code/community/Schrank/MageAttack/Test/features/not_readable_local_xml.feature
+app/code/community/Schrank/MageAttack/Test/features/no_license_files.feature          app/code/community/Schrank/MageAttack/Test/features/no_license_files.feature
